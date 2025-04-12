@@ -1,4 +1,8 @@
-## Hi there 👋
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/joncherry/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+    </a>
+</p>
 
 <!--
 **joncherry/joncherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
